@@ -1,6 +1,6 @@
 using Prism.Mvvm;
 
-namespace Vending.Model
+namespace MVVMApp.Model
 {
     public class ProductStack : BindableBase
     {

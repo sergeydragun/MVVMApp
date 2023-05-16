@@ -1,9 +1,9 @@
 ﻿using Prism.Commands;
 using Prism.Mvvm;
 using System.Windows;
-using Vending.Model;
+using MVVMApp.Model;
 
-namespace Vending.Client.ModelViews
+namespace MVVMApp.Client.ModelViews
 {
     public class ProductVM : BindableBase
     {

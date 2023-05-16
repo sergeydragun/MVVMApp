@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Vending.Client.Properties {
+namespace MVVMApp.Client.Properties {
     using System;
     
     

@@ -1,6 +1,8 @@
-﻿using System.Windows;
+﻿using MVVMApp.Client.ModelViews;
+using System.Windows;
 
-namespace Vending.Client.Main
+
+namespace MVVMApp.Client.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

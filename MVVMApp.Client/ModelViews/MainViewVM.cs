@@ -4,10 +4,10 @@ using System.Collections.Specialized;
 using System.Linq;
 using Prism.Commands;
 using Prism.Mvvm;
-using Vending.Client.ModelViews;
-using Vending.Model;
+using MVVMApp.Client.ModelViews;
+using MVVMApp.Model;
 
-namespace Vending.Client.Main
+namespace MVVMApp.Client.ModelViews
 {
     public class MainViewVM : BindableBase
     {

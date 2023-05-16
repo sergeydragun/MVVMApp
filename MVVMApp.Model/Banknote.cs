@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Vending.Model
+namespace MVVMApp.Model
 {
     public struct Banknote {
         public string Name { get; }
