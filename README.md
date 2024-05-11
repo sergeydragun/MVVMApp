@@ -1,1 +1,1 @@
-# VendingMachine
+WPF проект с использованием MVVM архитектуры
